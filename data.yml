@@ -1,0 +1,171 @@
+loan_application_no: C02503251295174825
+sanction_date: 27/03/2025
+sanction_time: "2:30 pm"
+borrower_name: Divya B
+current_address: |
+  Rose Wood
+  Rose Lane
+  Mumbai 400098 MH
+permanent_address: |
+  D/O B.Sheshagiri
+  Aadarsha Colony, Ward 16
+  Near Sai Baba Temple
+  Sindhanur 584128 KA
+email: divyab@ltfs.com
+mobile: "7026464334"
+
+loan_purpose: Personal - Consumer Durable
+sanctioned_amount: 400000
+disbursed_amount: 361575
+loan_term_months: 42
+
+emi: 10762
+emi_count: 42
+emi_start: 27/04/2025
+interest_rate: 13.00
+
+apr: 15.73
+total_interest: 90429
+fees_total: 15705
+net_disbursed: 345870
+total_payable: 452004
+
+
+# Detailed fee breakdown for E-agg format
+processing_fees: 4130
+
+
+first_login_date: "2025-03-25 12:12:24"
+
+repayment_schedule:
+  - { period: 1,  emi: 10761, interest: 3917, principal: 6844, balance: 354730 }
+  - { period: 2,  emi: 10761, interest: 3842, principal: 6918, balance: 347812 }
+  - { period: 3,  emi: 10761, interest: 3767, principal: 6993, balance: 340819 }
+  - { period: 4,  emi: 10761, interest: 3692, principal: 7069, balance: 333750 }
+  - { period: 5,  emi: 10761, interest: 3615, principal: 7145, balance: 326604 }
+  - { period: 6,  emi: 10761, interest: 3538, principal: 7223, balance: 319381 }
+  - { period: 7,  emi: 10761, interest: 3459, principal: 7301, balance: 312080 }
+  - { period: 8,  emi: 10761, interest: 3380, principal: 7380, balance: 304700 }
+  - { period: 9,  emi: 10761, interest: 3300, principal: 7460, balance: 297239 }
+  - { period: 10, emi: 10761, interest: 3220, principal: 7541, balance: 289698 }
+  - { period: 11, emi: 10761, interest: 3138, principal: 7622, balance: 282075 }
+  - { period: 12, emi: 10761, interest: 3055, principal: 7705, balance: 274370 }
+  - { period: 13, emi: 10761, interest: 2972, principal: 7788, balance: 266581 }
+  - { period: 14, emi: 10761, interest: 2887, principal: 7873, balance: 258708 }
+  - { period: 15, emi: 10761, interest: 2802, principal: 7958, balance: 250749 }
+  - { period: 16, emi: 10761, interest: 2716, principal: 8044, balance: 242704 }
+  - { period: 1,  emi: 10761, interest: 3917, principal: 6844, balance: 354730 }
+  - { period: 2,  emi: 10761, interest: 3842, principal: 6918, balance: 347812 }
+  - { period: 3,  emi: 10761, interest: 3767, principal: 6993, balance: 340819 }
+  - { period: 4,  emi: 10761, interest: 3692, principal: 7069, balance: 333750 }
+  - { period: 5,  emi: 10761, interest: 3615, principal: 7145, balance: 326604 }
+  - { period: 6,  emi: 10761, interest: 3538, principal: 7223, balance: 319381 }
+  - { period: 7,  emi: 10761, interest: 3459, principal: 7301, balance: 312080 }
+  - { period: 8,  emi: 10761, interest: 3380, principal: 7380, balance: 304700 }
+  - { period: 9,  emi: 10761, interest: 3300, principal: 7460, balance: 297239 }
+  - { period: 10, emi: 10761, interest: 3220, principal: 7541, balance: 289698 }
+  - { period: 11, emi: 10761, interest: 3138, principal: 7622, balance: 282075 }
+  - { period: 12, emi: 10761, interest: 3055, principal: 7705, balance: 274370 }
+  - { period: 13, emi: 10761, interest: 2972, principal: 7788, balance: 266581 }
+  - { period: 14, emi: 10761, interest: 2887, principal: 7873, balance: 258708 }
+  - { period: 15, emi: 10761, interest: 2802, principal: 7958, balance: 250749 }
+  - { period: 16, emi: 10761, interest: 2716, principal: 8044, balance: 242704 }
+  - { period: 1,  emi: 10761, interest: 3917, principal: 6844, balance: 354730 }
+  - { period: 2,  emi: 10761, interest: 3842, principal: 6918, balance: 347812 }
+  - { period: 3,  emi: 10761, interest: 3767, principal: 6993, balance: 340819 }
+  - { period: 4,  emi: 10761, interest: 3692, principal: 7069, balance: 333750 }
+  - { period: 5,  emi: 10761, interest: 3615, principal: 7145, balance: 326604 }
+  - { period: 6,  emi: 10761, interest: 3538, principal: 7223, balance: 319381 }
+  - { period: 7,  emi: 10761, interest: 3459, principal: 7301, balance: 312080 }
+  - { period: 8,  emi: 10761, interest: 3380, principal: 7380, balance: 304700 }
+  - { period: 9,  emi: 10761, interest: 3300, principal: 7460, balance: 297239 }
+  - { period: 10, emi: 10761, interest: 3220, principal: 7541, balance: 289698 }
+  - { period: 11, emi: 10761, interest: 3138, principal: 7622, balance: 282075 }
+  - { period: 12, emi: 10761, interest: 3055, principal: 7705, balance: 274370 }
+  - { period: 13, emi: 10761, interest: 2972, principal: 7788, balance: 266581 }
+  - { period: 14, emi: 10761, interest: 2887, principal: 7873, balance: 258708 }
+  - { period: 15, emi: 10761, interest: 2802, principal: 7958, balance: 250749 }
+  - { period: 16, emi: 10761, interest: 2716, principal: 8044, balance: 242704 }
+  - { period: 1,  emi: 10761, interest: 3917, principal: 6844, balance: 354730 }
+  - { period: 2,  emi: 10761, interest: 3842, principal: 6918, balance: 347812 }
+  - { period: 3,  emi: 10761, interest: 3767, principal: 6993, balance: 340819 }
+  - { period: 4,  emi: 10761, interest: 3692, principal: 7069, balance: 333750 }
+  - { period: 5,  emi: 10761, interest: 3615, principal: 7145, balance: 326604 }
+  - { period: 6,  emi: 10761, interest: 3538, principal: 7223, balance: 319381 }
+  - { period: 7,  emi: 10761, interest: 3459, principal: 7301, balance: 312080 }
+  - { period: 8,  emi: 10761, interest: 3380, principal: 7380, balance: 304700 }
+  - { period: 9,  emi: 10761, interest: 3300, principal: 7460, balance: 297239 }
+  - { period: 10, emi: 10761, interest: 3220, principal: 7541, balance: 289698 }
+  - { period: 11, emi: 10761, interest: 3138, principal: 7622, balance: 282075 }
+  - { period: 12, emi: 10761, interest: 3055, principal: 7705, balance: 274370 }
+  - { period: 13, emi: 10761, interest: 2972, principal: 7788, balance: 266581 }
+  - { period: 14, emi: 10761, interest: 2887, principal: 7873, balance: 258708 }
+  - { period: 15, emi: 10761, interest: 2802, principal: 7958, balance: 250749 }
+  - { period: 16, emi: 10761, interest: 2716, principal: 8044, balance: 242704 }
+  - { period: 1,  emi: 10761, interest: 3917, principal: 6844, balance: 354730 }
+  - { period: 2,  emi: 10761, interest: 3842, principal: 6918, balance: 347812 }
+  - { period: 3,  emi: 10761, interest: 3767, principal: 6993, balance: 340819 }
+  - { period: 4,  emi: 10761, interest: 3692, principal: 7069, balance: 333750 }
+  - { period: 5,  emi: 10761, interest: 3615, principal: 7145, balance: 326604 }
+  - { period: 6,  emi: 10761, interest: 3538, principal: 7223, balance: 319381 }
+  - { period: 7,  emi: 10761, interest: 3459, principal: 7301, balance: 312080 }
+  - { period: 8,  emi: 10761, interest: 3380, principal: 7380, balance: 304700 }
+  - { period: 9,  emi: 10761, interest: 3300, principal: 7460, balance: 297239 }
+  - { period: 10, emi: 10761, interest: 3220, principal: 7541, balance: 289698 }
+  - { period: 11, emi: 10761, interest: 3138, principal: 7622, balance: 282075 }
+  - { period: 12, emi: 10761, interest: 3055, principal: 7705, balance: 274370 }
+  - { period: 13, emi: 10761, interest: 2972, principal: 7788, balance: 266581 }
+  - { period: 14, emi: 10761, interest: 2887, principal: 7873, balance: 258708 }
+  - { period: 15, emi: 10761, interest: 2802, principal: 7958, balance: 250749 }
+  - { period: 16, emi: 10761, interest: 2716, principal: 8044, balance: 242704 }
+  - { period: 1,  emi: 10761, interest: 3917, principal: 6844, balance: 354730 }
+  - { period: 2,  emi: 10761, interest: 3842, principal: 6918, balance: 347812 }
+  - { period: 3,  emi: 10761, interest: 3767, principal: 6993, balance: 340819 }
+  - { period: 4,  emi: 10761, interest: 3692, principal: 7069, balance: 333750 }
+  - { period: 5,  emi: 10761, interest: 3615, principal: 7145, balance: 326604 }
+  - { period: 6,  emi: 10761, interest: 3538, principal: 7223, balance: 319381 }
+  - { period: 7,  emi: 10761, interest: 3459, principal: 7301, balance: 312080 }
+  - { period: 8,  emi: 10761, interest: 3380, principal: 7380, balance: 304700 }
+  - { period: 9,  emi: 10761, interest: 3300, principal: 7460, balance: 297239 }
+  - { period: 10, emi: 10761, interest: 3220, principal: 7541, balance: 289698 }
+  - { period: 11, emi: 10761, interest: 3138, principal: 7622, balance: 282075 }
+  - { period: 12, emi: 10761, interest: 3055, principal: 7705, balance: 274370 }
+  - { period: 13, emi: 10761, interest: 2972, principal: 7788, balance: 266581 }
+  - { period: 14, emi: 10761, interest: 2887, principal: 7873, balance: 258708 }
+  - { period: 15, emi: 10761, interest: 2802, principal: 7958, balance: 250749 }
+  - { period: 16, emi: 10761, interest: 2716, principal: 8044, balance: 242704 }
+  - { period: 1,  emi: 10761, interest: 3917, principal: 6844, balance: 354730 }
+  - { period: 2,  emi: 10761, interest: 3842, principal: 6918, balance: 347812 }
+  - { period: 3,  emi: 10761, interest: 3767, principal: 6993, balance: 340819 }
+  - { period: 4,  emi: 10761, interest: 3692, principal: 7069, balance: 333750 }
+  - { period: 5,  emi: 10761, interest: 3615, principal: 7145, balance: 326604 }
+  - { period: 6,  emi: 10761, interest: 3538, principal: 7223, balance: 319381 }
+  - { period: 7,  emi: 10761, interest: 3459, principal: 7301, balance: 312080 }
+  - { period: 8,  emi: 10761, interest: 3380, principal: 7380, balance: 304700 }
+  - { period: 9,  emi: 10761, interest: 3300, principal: 7460, balance: 297239 }
+  - { period: 10, emi: 10761, interest: 3220, principal: 7541, balance: 289698 }
+  - { period: 11, emi: 10761, interest: 3138, principal: 7622, balance: 282075 }
+  - { period: 12, emi: 10761, interest: 3055, principal: 7705, balance: 274370 }
+  - { period: 13, emi: 10761, interest: 2972, principal: 7788, balance: 266581 }
+  - { period: 14, emi: 10761, interest: 2887, principal: 7873, balance: 258708 }
+  - { period: 15, emi: 10761, interest: 2802, principal: 7958, balance: 250749 }
+  - { period: 16, emi: 10761, interest: 2716, principal: 8044, balance: 242704 }
+  - { period: 1,  emi: 10761, interest: 3917, principal: 6844, balance: 354730 }
+  - { period: 2,  emi: 10761, interest: 3842, principal: 6918, balance: 347812 }
+  - { period: 3,  emi: 10761, interest: 3767, principal: 6993, balance: 340819 }
+  - { period: 4,  emi: 10761, interest: 3692, principal: 7069, balance: 333750 }
+  - { period: 5,  emi: 10761, interest: 3615, principal: 7145, balance: 326604 }
+  - { period: 6,  emi: 10761, interest: 3538, principal: 7223, balance: 319381 }
+  - { period: 7,  emi: 10761, interest: 3459, principal: 7301, balance: 312080 }
+  - { period: 8,  emi: 10761, interest: 3380, principal: 7380, balance: 304700 }
+  - { period: 9,  emi: 10761, interest: 3300, principal: 7460, balance: 297239 }
+  - { period: 10, emi: 10761, interest: 3220, principal: 7541, balance: 289698 }
+  - { period: 11, emi: 10761, interest: 3138, principal: 7622, balance: 282075 }
+  - { period: 12, emi: 10761, interest: 3055, principal: 7705, balance: 274370 }
+  - { period: 13, emi: 10761, interest: 2972, principal: 7788, balance: 266581 }
+  - { period: 14, emi: 10761, interest: 2887, principal: 7873, balance: 258708 }
+  - { period: 15, emi: 10761, interest: 2802, principal: 7958, balance: 250749 }
+  - { period: 16, emi: 10761, interest: 2716, principal: 8044, balance: 242704 }
+
+
+payable_to_third_party: 11575.00
